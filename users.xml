@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facultyFinderUsers version="1" exported="1791907434792">
+  <admin rs="ac2ee65439908ab18237bf570414e1d8" rh="e8d83a47c7c0e101991583a31e1fbc23ece37bf4ec9fc5f1174c086036f004c5" m="1791888228941"/>
+  <users>
+    <user id="nitish" name="nitish" role="user" active="true" created="1791888251835" m="1791907417488" salt="2acdca090cde475690e4468b7ca49c2f" hash="3444dcee5cbf9934d1f16e291981a111d73edc7933376526e98b742f0d5a1f47" rs="74a0e6fcd1fa25a2138c544719291e8d" rh="bd3ff1a2bf6767114461a7116ed91478f9967ef345341f9c10007fdc0256587e">
+      <feature>time</feature>
+      <feature>fac</feature>
+      <feature>sectt</feature>
+      <feature>duty</feature>
+      <feature>dutyedit</feature>
+      <feature>excel</feature>
+      <feature>upload</feature>
+      <feature>backup</feature>
+      <feature>cmp</feature>
+    </user>
+  </users>
+  <deleted>
+  </deleted>
+</facultyFinderUsers>
